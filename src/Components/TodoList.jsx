@@ -59,7 +59,7 @@ const TodoList = () => {
   return (
     <div className="min-h-screen bg-gray-100 flex items-center justify-center p-4">
       <div className="bg-white shadow-md rounded-lg p-6 w-full max-w-md">
-        <h1 className="text-2xl font-bold mb-4 text-center">To-Do List</h1>
+        <h1 className="text-2xl font-bold mb-4 text-center">To-Do List - Shubhankit</h1>
         <div className="flex mb-4">
           <input
             type="text"
