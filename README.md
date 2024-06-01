@@ -24,7 +24,7 @@ Follow these steps to set up and run the project locally.
 
    ```bash
    git clone https://github.com/avayyyyyyy/Todo-List-Celebal-assignment2
-   cd todo-list-app
+   cd Todo-List-Celebal-assignment2
    ```
 
 2. **Install dependencies**
